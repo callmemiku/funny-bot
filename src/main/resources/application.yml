@@ -1,0 +1,5 @@
+bot:
+  name: InfoAbiturientBot
+  token: ${KARSAR_TG_TOKEN}
+
+
